@@ -10,7 +10,7 @@
 - 🔭: I’m currently working on smalls proyects.
 - 🌱: I’m currently learning MySQL Databases and Front-end. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- ⚡  Fun fact: I play many games, what can I say, I'm a gamer 👾🤖
+
   
 
 
