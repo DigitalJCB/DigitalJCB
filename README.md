@@ -28,7 +28,6 @@
 **Web/Full Stack projects**
 
 [![Portfolio](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://digitaljcb.github.io/portfolio/)
-[![DevBlog](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)
 
 
 
