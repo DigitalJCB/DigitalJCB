@@ -29,6 +29,8 @@
 
 [![Portfolio](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://digitaljcb.github.io/portfolio/)
 
+![DigitalJCB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalJCB&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
