@@ -29,7 +29,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://digitaljcb.github.io/portfolio/)
 
-![DigitalJCB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalJCB&theme=dracula&show_icons=true&hide_border=true&layout=compact) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DigitalJCB&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DigitalJCB&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 
